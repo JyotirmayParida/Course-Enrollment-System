@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Course Enrollment System — Data Engineering Pipeline
 
 ## Project Overview
@@ -224,3 +225,7 @@ instructor_id  instructor_name  semesters_active  total_courses  avg_courses_per
 ## License
 
 This project is for educational and portfolio demonstration purposes.
+=======
+# Course-Enrollment-System
+End-to-end Data Engineering Pipeline for University Course Enrollment System using Medallion Architecture (Bronze-Silver-Gold) with dbt and DuckDB
+>>>>>>> e2c72084cbf587e7f2de23eb9d56eef54ff2bbea

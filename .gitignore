@@ -1,0 +1,72 @@
+# =============================================
+# Course Enrollment System - .gitignore
+# =============================================
+
+# Database files (large and may contain synthetic PII)
+*.db
+*.duckdb
+db/
+data/
+
+# Bronze raw data (can be regenerated)
+data/bronze/
+
+# Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Virtual environments
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# dbt specific
+dbt_project/target/
+dbt_project/dbt_packages/
+dbt_project/logs/
+
+# Test and coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment variables (if you ever add any)
+.env
+.env.local
+
+# Large generated files
+*.parquet
+*.csv   # Only ignore if you want to regenerate all CSVs
+!data/bronze/*.csv   # Uncomment this line if you want to keep a few sample CSVs
