@@ -1,0 +1,61 @@
+course_id,name,department,credit_hours,instructor_id,capacity,semester_id,created_at
+CRS-0001,Enterprise-wide client-driven parallelism 101,Business,4,INS-005,33,SEM-5,2026-04-16T13:18:13.648692
+CRS-0002,Realigned mission-critical concept 101,Business,3,INS-019,35,SEM-4,2026-04-16T13:18:13.648764
+CRS-0003,Automated mobile emulation 101,Mathematics,3,INS-009,27,SEM-2,2026-04-16T13:18:13.648779
+CRS-0004,Grass-roots asynchronous software 101,Business,4,INS-016,34,SEM-2,2026-04-16T13:18:13.648792
+CRS-0005,Fundamental uniform adapter 101,Mathematics,3,INS-002,31,SEM-1,2026-04-16T13:18:13.648804
+CRS-0006,Front-line local implementation 101,Mathematics,4,INS-016,34,SEM-1,2026-04-16T13:18:13.648817
+CRS-0007,Innovative zero administration parallelism 101,Engineering,3,INS-005,39,SEM-4,2026-04-16T13:18:13.648829
+CRS-0008,Customer-focused modular customer loyalty 101,Mathematics,4,INS-013,28,SEM-4,2026-04-16T13:18:13.648845
+CRS-0009,Innovative hybrid algorithm 101,Engineering,4,INS-002,32,SEM-2,2026-04-16T13:18:13.648856
+CRS-0010,Operative regional productivity 101,Physics,3,INS-012,38,SEM-1,2026-04-16T13:18:13.648868
+CRS-0011,Programmable actuating methodology 101,Engineering,3,INS-020,33,SEM-6,2026-04-16T13:18:13.648880
+CRS-0012,Secured foreground process improvement 101,Mathematics,4,INS-002,26,SEM-6,2026-04-16T13:18:13.648892
+CRS-0013,Versatile coherent installation 101,Engineering,4,INS-015,29,SEM-3,2026-04-16T13:18:13.648904
+CRS-0014,Optimized transitional migration 101,Physics,3,INS-015,34,SEM-2,2026-04-16T13:18:13.648917
+CRS-0015,Polarized zero-defect Graphic Interface 101,Mathematics,3,INS-013,37,SEM-3,2026-04-16T13:18:13.648930
+CRS-0016,Up-sized dedicated firmware 101,Physics,3,INS-016,25,SEM-4,2026-04-16T13:18:13.648942
+CRS-0017,Universal dedicated migration 101,Computer Science,3,INS-002,29,SEM-2,2026-04-16T13:18:13.648953
+CRS-0018,Grass-roots non-volatile strategy 101,Business,3,INS-010,32,SEM-3,2026-04-16T13:18:13.648964
+CRS-0019,Profound 5thgeneration productivity 101,Business,4,INS-004,30,SEM-6,2026-04-16T13:18:13.648977
+CRS-0020,Open-architected radical access 101,Computer Science,3,INS-010,27,SEM-2,2026-04-16T13:18:13.648988
+CRS-0021,Horizontal contextually-based policy 101,Computer Science,4,INS-003,30,SEM-4,2026-04-16T13:18:13.648999
+CRS-0022,Seamless interactive success 101,Physics,3,INS-013,35,SEM-4,2026-04-16T13:18:13.649011
+CRS-0023,Reduced optimal process improvement 101,Business,4,INS-011,31,SEM-3,2026-04-16T13:18:13.649023
+CRS-0024,Upgradable neutral Internet solution 101,Computer Science,4,INS-011,26,SEM-6,2026-04-16T13:18:13.649034
+CRS-0025,Optional static focus group 101,Business,3,INS-019,34,SEM-3,2026-04-16T13:18:13.649045
+CRS-0026,Re-contextualized reciprocal definition 101,Business,3,INS-004,26,SEM-5,2026-04-16T13:18:13.649057
+CRS-0027,Versatile client-driven core 101,Engineering,3,INS-011,34,SEM-1,2026-04-16T13:18:13.649069
+CRS-0028,Up-sized attitude-oriented system engine 101,Mathematics,4,INS-016,34,SEM-5,2026-04-16T13:18:13.649083
+CRS-0029,Digitized high-level info-mediaries 101,Business,4,INS-016,37,SEM-2,2026-04-16T13:18:13.649094
+CRS-0030,Realigned demand-driven website 101,Engineering,4,INS-004,34,SEM-6,2026-04-16T13:18:13.649106
+CRS-0031,Networked 24/7 time-frame 101,Engineering,3,INS-015,37,SEM-3,2026-04-16T13:18:13.649117
+CRS-0032,Realigned uniform focus group 101,Computer Science,3,INS-016,32,SEM-1,2026-04-16T13:18:13.649129
+CRS-0033,Inverse contextually-based hierarchy 101,Computer Science,3,INS-012,27,SEM-1,2026-04-16T13:18:13.649141
+CRS-0034,Focused asynchronous benchmark 101,Business,4,INS-004,31,SEM-5,2026-04-16T13:18:13.649153
+CRS-0035,Business-focused real-time budgetary management 101,Computer Science,3,INS-013,34,SEM-6,2026-04-16T13:18:13.649164
+CRS-0036,Multi-channeled didactic model 101,Computer Science,4,INS-012,33,SEM-5,2026-04-16T13:18:13.649185
+CRS-0037,Upgradable bottom-line time-frame 101,Computer Science,4,INS-006,37,SEM-5,2026-04-16T13:18:13.649198
+CRS-0038,Decentralized value-added system engine 101,Physics,4,INS-014,25,SEM-4,2026-04-16T13:18:13.649210
+CRS-0039,Synergistic intangible collaboration 101,Mathematics,3,INS-003,28,SEM-1,2026-04-16T13:18:13.649222
+CRS-0040,Polarized non-volatile core 101,Physics,4,INS-004,31,SEM-2,2026-04-16T13:18:13.649233
+CRS-0041,Triple-buffered executive moratorium 101,Business,3,INS-015,34,SEM-2,2026-04-16T13:18:13.649245
+CRS-0042,Phased cohesive implementation 101,Business,4,INS-012,29,SEM-4,2026-04-16T13:18:13.649256
+CRS-0043,Upgradable bandwidth-monitored hierarchy 101,Engineering,3,INS-006,40,SEM-1,2026-04-16T13:18:13.649267
+CRS-0044,Ameliorated homogeneous Internet solution 101,Engineering,4,INS-013,25,SEM-3,2026-04-16T13:18:13.649279
+CRS-0045,Enterprise-wide homogeneous model 101,Mathematics,4,INS-018,36,SEM-3,2026-04-16T13:18:13.649292
+CRS-0046,Re-contextualized demand-driven encryption 101,Physics,3,INS-014,36,SEM-3,2026-04-16T13:18:13.649304
+CRS-0047,Polarized value-added solution 101,Computer Science,3,INS-007,27,SEM-2,2026-04-16T13:18:13.649317
+CRS-0048,Profit-focused empowering hierarchy 101,Physics,3,INS-018,31,SEM-2,2026-04-16T13:18:13.649328
+CRS-0049,De-engineered multimedia policy 101,Physics,3,INS-018,28,SEM-3,2026-04-16T13:18:13.649339
+CRS-0050,Multi-channeled stable budgetary management 101,Business,4,INS-008,29,SEM-4,2026-04-16T13:18:13.649351
+CRS-0051,Expanded multimedia middleware 101,Engineering,3,INS-012,34,SEM-5,2026-04-16T13:18:13.649362
+CRS-0052,Optimized heuristic methodology 101,Physics,4,INS-010,34,SEM-5,2026-04-16T13:18:13.649374
+CRS-0053,Focused didactic customer loyalty 101,Mathematics,3,INS-006,25,SEM-5,2026-04-16T13:18:13.649385
+CRS-0054,Implemented tertiary emulation 101,Computer Science,4,INS-002,25,SEM-1,2026-04-16T13:18:13.649397
+CRS-0055,Customizable eco-centric Internet solution 101,Engineering,3,INS-009,34,SEM-5,2026-04-16T13:18:13.649408
+CRS-0056,User-centric executive data-warehouse 101,Mathematics,3,INS-010,27,SEM-5,2026-04-16T13:18:13.649420
+CRS-0057,Triple-buffered hybrid forecast 101,Engineering,4,INS-014,31,SEM-2,2026-04-16T13:18:13.649431
+CRS-0058,Balanced directional toolset 101,Business,3,INS-005,27,SEM-1,2026-04-16T13:18:13.649443
+CRS-0059,Ameliorated full-range model 101,Mathematics,4,INS-020,39,SEM-5,2026-04-16T13:18:13.649455
+CRS-0060,Public-key bi-directional matrix 101,Physics,4,INS-010,35,SEM-6,2026-04-16T13:18:13.649466

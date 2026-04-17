@@ -1,0 +1,21 @@
+instructor_id,first_name,last_name,email,department,hire_date,created_at
+INS-001,Bailey,Patterson,michael30@example.net,Computer Science,2017-07-04,2026-04-16T13:18:12.442967
+INS-002,Jennifer,Perkins,jose03@example.com,Engineering,2016-06-17,2026-04-16T13:18:12.443273
+INS-003,John,Quinn,ufrederick@example.com,Mathematics,2021-07-04,2026-04-16T13:18:12.443518
+INS-004,Maria,Winters,xholt@example.org,Business,2023-02-13,2026-04-16T13:18:12.443759
+INS-005,James,Mcclure,danielleswanson@example.org,Business,2023-06-05,2026-04-16T13:18:12.444034
+INS-006,Mathew,Jimenez,thomaskeith@example.org,Mathematics,2026-03-16,2026-04-16T13:18:12.444333
+INS-007,Robert,Savage,joneslisa@example.net,Engineering,2023-07-22,2026-04-16T13:18:12.444606
+INS-008,Christy,Lutz,heidi85@example.org,Physics,2018-06-10,2026-04-16T13:18:12.444813
+INS-009,Troy,May,kristina38@example.org,Engineering,2025-06-13,2026-04-16T13:18:12.445011
+INS-010,Samantha,Paul,jonathananderson@example.net,Business,2020-07-02,2026-04-16T13:18:12.445302
+INS-011,Douglas,Smith,robert68@example.com,Computer Science,2019-10-13,2026-04-16T13:18:12.445504
+INS-012,Patrick,Harris,nicholasavery@example.org,Physics,2021-12-07,2026-04-16T13:18:12.445782
+INS-013,Tonya,Humphrey,fosterchris@example.com,Business,2016-04-29,2026-04-16T13:18:12.446043
+INS-014,Bianca,Lewis,mclaughlincurtis@example.com,Business,2018-09-30,2026-04-16T13:18:12.446331
+INS-015,Richard,Ortega,jessemccoy@example.org,Mathematics,2024-01-05,2026-04-16T13:18:12.446606
+INS-016,Sonya,Lee,michaelbrown@example.net,Engineering,2022-02-02,2026-04-16T13:18:12.446870
+INS-017,Rachel,Lynch,christopherlindsey@example.net,Engineering,2022-09-26,2026-04-16T13:18:12.447156
+INS-018,Kelsey,Howard,kevinlee@example.com,Business,2021-12-10,2026-04-16T13:18:12.447419
+INS-019,Howard,Jackson,pwerner@example.org,Physics,2020-07-03,2026-04-16T13:18:12.447632
+INS-020,Brandy,Miller,corey65@example.net,Business,2023-04-08,2026-04-16T13:18:12.447840

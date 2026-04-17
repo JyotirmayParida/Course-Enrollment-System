@@ -1,0 +1,7 @@
+course_enrollment:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: db/analytics.duckdb
+      schema: main

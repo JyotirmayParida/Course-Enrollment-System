@@ -1,0 +1,8 @@
+faker
+pandas
+dbt-core
+dbt-sqlite
+duckdb
+pyarrow
+pytest
+rich

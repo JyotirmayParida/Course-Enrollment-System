@@ -1,0 +1,5 @@
+DB_PATH = "db/enrollment.db"
+BRONZE_PATH = "data/bronze/"
+SILVER_PATH = "data/silver/"
+GOLD_PATH = "data/gold/"
+LOG_LEVEL = "INFO"

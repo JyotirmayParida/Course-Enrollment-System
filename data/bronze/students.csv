@@ -1,0 +1,501 @@
+student_id,first_name,last_name,email,enrollment_date,major,created_at
+STU-0001,Tara,Crosby,matthew60@example.com,2024-04-16,Chemistry,2026-04-16T13:18:14.779105
+STU-0002,Michelle,Thompson,savannahmejia@example.com,2024-07-20,Chemistry,2026-04-16T13:18:14.779428
+STU-0003,Rachel,Martinez,mercerbrandon@example.org,2022-12-29,Biology,2026-04-16T13:18:14.779704
+STU-0004,Suzanne,Johnson,lori73@example.net,2023-04-14,Physics,2026-04-16T13:18:14.779906
+STU-0005,Jacob,Hubbard,blake22@example.com,2023-01-21,Mathematics,2026-04-16T13:18:14.780156
+STU-0006,Heather,Dennis,aaron60@example.com,2024-10-09,Chemistry,2026-04-16T13:18:14.780361
+STU-0007,Dakota,Vazquez,jenniferrobertson@example.com,2023-07-27,Physics,2026-04-16T13:18:14.780620
+STU-0008,Angela,Schultz,jacobthompson@example.net,2025-03-18,Business,2026-04-16T13:18:14.780877
+STU-0009,Tina,Douglas,bcantu@example.com,2024-07-17,Chemistry,2026-04-16T13:18:14.781117
+STU-0010,Kevin,Brown,martinstephen@example.com,2023-06-27,Biology,2026-04-16T13:18:14.781377
+STU-0011,Victor,Glenn,tjohnson@example.net,2024-04-25,Computer Science,2026-04-16T13:18:14.781594
+STU-0012,Joe,Carter,gardnerkristen@example.org,2022-11-02,Biology,2026-04-16T13:18:14.781855
+STU-0013,Christina,Hopkins,fred46@example.com,2025-11-05,Engineering,2026-04-16T13:18:14.782082
+STU-0014,Brian,Huffman,vdavis@example.com,2023-05-07,Physics,2026-04-16T13:18:14.782300
+STU-0015,John,Meyer,emendez@example.net,2025-09-30,Mathematics,2026-04-16T13:18:14.782523
+STU-0016,Christine,Cisneros,alicia53@example.net,2022-09-05,Chemistry,2026-04-16T13:18:14.782719
+STU-0017,James,Brown,dmaldonado@example.com,2022-07-07,Mathematics,2026-04-16T13:18:14.782935
+STU-0018,Brad,Hernandez,jeffreylopez@example.net,2022-07-12,Computer Science,2026-04-16T13:18:14.783216
+STU-0019,Matthew,Salinas,tyler20@example.com,2023-04-26,Mathematics,2026-04-16T13:18:14.783417
+STU-0020,John,Williams,michellewalker@example.net,2022-05-08,Physics,2026-04-16T13:18:14.783688
+STU-0021,Brian,Mcintosh,warmstrong@example.net,2025-03-13,Engineering,2026-04-16T13:18:14.783901
+STU-0022,Justin,Parker,isaiahwilliams@example.net,2025-10-02,Physics,2026-04-16T13:18:14.784215
+STU-0023,Jeffrey,Sanders,mary81@example.net,2025-10-04,Chemistry,2026-04-16T13:18:14.784415
+STU-0024,Matthew,Ellis,scottbowman@example.org,2023-03-28,Business,2026-04-16T13:18:14.784669
+STU-0025,Brian,Ortiz,wendy88@example.org,2025-04-25,Computer Science,2026-04-16T13:18:14.784866
+STU-0026,April,Parker,matthew72@example.org,2024-06-11,Business,2026-04-16T13:18:14.785358
+STU-0027,Emma,Williams,kimvelazquez@example.com,2024-03-21,Engineering,2026-04-16T13:18:14.785660
+STU-0028,Lisa,Lin,cindy21@example.com,2026-02-24,Business,2026-04-16T13:18:14.785889
+STU-0029,Kristine,Smith,thomasjessica@example.org,2023-05-22,Business,2026-04-16T13:18:14.786182
+STU-0030,Arthur,Marshall,martinjennifer@example.org,2025-07-18,Business,2026-04-16T13:18:14.786444
+STU-0031,Daniel,Gibson,bwilkins@example.com,2023-04-30,Physics,2026-04-16T13:18:14.786660
+STU-0032,Eric,Willis,josephthomas@example.com,2025-06-09,Business,2026-04-16T13:18:14.786928
+STU-0033,Sandra,Shaw,mccartysean@example.com,2022-08-30,Computer Science,2026-04-16T13:18:14.787314
+STU-0034,Mary,Fitzgerald,tduffy@example.org,2024-10-27,Engineering,2026-04-16T13:18:14.787917
+STU-0035,Melinda,Smith,davidgarcia@example.net,2025-12-03,Biology,2026-04-16T13:18:14.788558
+STU-0036,David,Duncan,ujenkins@example.net,2024-03-30,Chemistry,2026-04-16T13:18:14.789014
+STU-0037,Emily,Thomas,hgarner@example.com,2024-11-29,Mathematics,2026-04-16T13:18:14.789277
+STU-0038,Tanya,Taylor,anna24@example.net,2025-01-05,Business,2026-04-16T13:18:14.789480
+STU-0039,Jeffrey,Smith,evanturner@example.org,2026-04-07,Computer Science,2026-04-16T13:18:14.789749
+STU-0040,Gabriel,Sutton,whowell@example.org,2025-01-12,Mathematics,2026-04-16T13:18:14.789964
+STU-0041,Cindy,Wong,perkinsbrett@example.com,2024-02-08,Engineering,2026-04-16T13:18:14.790249
+STU-0042,Ellen,Gonzalez,jboyd@example.net,2024-10-19,Computer Science,2026-04-16T13:18:14.790463
+STU-0043,Kelly,Anderson,scott50@example.org,2025-07-06,Business,2026-04-16T13:18:14.790677
+STU-0044,Jonathan,Burns,angelaharris@example.com,2023-10-05,Computer Science,2026-04-16T13:18:14.790939
+STU-0045,Donna,Stokes,stephenmartin@example.com,2023-04-27,Mathematics,2026-04-16T13:18:14.791379
+STU-0046,Jessica,Salas,murraykenneth@example.com,2025-10-24,Physics,2026-04-16T13:18:14.791657
+STU-0047,Evan,Morris,xdennis@example.net,2023-01-01,Mathematics,2026-04-16T13:18:14.791875
+STU-0048,Diana,Hall,fcole@example.org,2024-04-09,Chemistry,2026-04-16T13:18:14.792115
+STU-0049,Connor,Parker,tmorgan@example.org,2023-01-21,Biology,2026-04-16T13:18:14.792377
+STU-0050,Jose,Davis,crystalhoffman@example.net,2022-07-03,Biology,2026-04-16T13:18:14.792637
+STU-0051,Gavin,Snow,rmiller@example.net,2026-03-15,Engineering,2026-04-16T13:18:14.792850
+STU-0052,Ricardo,Hicks,dannyjohnson@example.com,2022-05-24,Chemistry,2026-04-16T13:18:14.793151
+STU-0053,Amy,Santiago,katrina03@example.net,2024-09-16,Engineering,2026-04-16T13:18:14.793353
+STU-0054,James,Alexander,charlesduran@example.com,2026-03-16,Chemistry,2026-04-16T13:18:14.793608
+STU-0055,Amy,Medina,davidschultz@example.com,2025-12-16,Chemistry,2026-04-16T13:18:14.793862
+STU-0056,Lindsey,White,stephaniehodge@example.org,2023-10-29,Computer Science,2026-04-16T13:18:14.794145
+STU-0057,Samantha,Wise,rwhite@example.net,2023-05-05,Mathematics,2026-04-16T13:18:14.794560
+STU-0058,Antonio,Aguilar,anthony13@example.org,2024-02-10,Physics,2026-04-16T13:18:14.794992
+STU-0059,Anne,Humphrey,parkercrystal@example.com,2023-05-12,Computer Science,2026-04-16T13:18:14.795346
+STU-0060,Barbara,Jackson,joel09@example.net,2023-07-12,Mathematics,2026-04-16T13:18:14.795553
+STU-0061,Laura,Davis,melissamiller@example.net,2024-05-04,Engineering,2026-04-16T13:18:14.795816
+STU-0062,Billy,Jones,jared68@example.com,2023-08-09,Mathematics,2026-04-16T13:18:14.796013
+STU-0063,Kristina,Griffin,mary86@example.org,2025-03-19,Mathematics,2026-04-16T13:18:14.796232
+STU-0064,Christina,Shaffer,faulkneramanda@example.net,2023-02-26,Computer Science,2026-04-16T13:18:14.796490
+STU-0065,Samantha,Howard,shanelogan@example.net,2025-05-22,Computer Science,2026-04-16T13:18:14.796768
+STU-0066,Thomas,Burch,brittney43@example.com,2023-07-06,Biology,2026-04-16T13:18:14.796967
+STU-0067,Gavin,Johnson,dianeadams@example.com,2023-10-15,Chemistry,2026-04-16T13:18:14.797249
+STU-0068,Barbara,Washington,james34@example.org,2026-03-11,Biology,2026-04-16T13:18:14.797444
+STU-0069,Dan,Lane,dawn74@example.org,2024-12-21,Computer Science,2026-04-16T13:18:14.797638
+STU-0070,Stephanie,Keller,jerrycooper@example.net,2023-11-23,Chemistry,2026-04-16T13:18:14.797892
+STU-0071,Jennifer,Miller,michelle73@example.com,2024-11-21,Computer Science,2026-04-16T13:18:14.798086
+STU-0072,Benjamin,Murphy,ronald96@example.com,2023-05-13,Physics,2026-04-16T13:18:14.798306
+STU-0073,Shelia,Mendez,daniel60@example.org,2023-03-08,Mathematics,2026-04-16T13:18:14.798502
+STU-0074,Karen,Oliver,josephmckee@example.org,2023-04-27,Mathematics,2026-04-16T13:18:14.798780
+STU-0075,Daniel,Ho,nicholasdougherty@example.com,2022-12-30,Computer Science,2026-04-16T13:18:14.799035
+STU-0076,Evan,Wilson,amanda73@example.org,2023-11-01,Business,2026-04-16T13:18:14.799252
+STU-0077,Robert,Rogers,vfranco@example.org,2025-02-26,Physics,2026-04-16T13:18:14.799465
+STU-0078,Tina,Klein,kurtjohnson@example.net,2022-12-21,Engineering,2026-04-16T13:18:14.799723
+STU-0079,Eric,Snyder,kevin90@example.org,2024-12-18,Business,2026-04-16T13:18:14.799919
+STU-0080,Patricia,Byrd,maykatie@example.net,2025-12-01,Business,2026-04-16T13:18:14.800198
+STU-0081,Justin,Brown,hbrown@example.org,2025-02-20,Computer Science,2026-04-16T13:18:14.800415
+STU-0082,Ebony,Clark,johnsonbrian@example.net,2022-09-06,Engineering,2026-04-16T13:18:14.800679
+STU-0083,Neil,Lawrence,brandon70@example.com,2023-03-21,Chemistry,2026-04-16T13:18:14.800890
+STU-0084,Raymond,Rodgers,katherine82@example.net,2025-06-07,Computer Science,2026-04-16T13:18:14.801090
+STU-0085,Jose,Frey,sampsonnicole@example.com,2026-02-21,Biology,2026-04-16T13:18:14.801369
+STU-0086,Anna,Harris,tanner62@example.com,2022-12-08,Mathematics,2026-04-16T13:18:14.801565
+STU-0087,Brenda,Hodges,melissa08@example.com,2022-12-06,Chemistry,2026-04-16T13:18:14.801758
+STU-0088,Edward,Rhodes,brittneynguyen@example.net,2022-07-22,Chemistry,2026-04-16T13:18:14.802007
+STU-0089,Elizabeth,Harris,ivan54@example.com,2025-05-23,Mathematics,2026-04-16T13:18:14.802224
+STU-0090,Lisa,Martin,rdeleon@example.net,2024-12-02,Physics,2026-04-16T13:18:14.802441
+STU-0091,Marisa,Bates,kristopher05@example.com,2024-03-05,Computer Science,2026-04-16T13:18:14.802634
+STU-0092,Kent,Miller,heathsusan@example.net,2022-11-24,Biology,2026-04-16T13:18:14.802905
+STU-0093,Jeremy,Wells,martintimothy@example.com,2024-01-30,Mathematics,2026-04-16T13:18:14.803180
+STU-0094,Cassandra,Waters,nmoore@example.com,2024-05-27,Physics,2026-04-16T13:18:14.803401
+STU-0095,Bradley,Lara,tinamurphy@example.net,2024-02-24,Business,2026-04-16T13:18:14.803660
+STU-0096,Christopher,Allen,davidfrey@example.org,2023-03-26,Business,2026-04-16T13:18:14.803919
+STU-0097,Courtney,Johnson,qstephens@example.com,2023-10-17,Biology,2026-04-16T13:18:14.804149
+STU-0098,Christopher,Fernandez,livingstonjeffrey@example.com,2022-07-21,Chemistry,2026-04-16T13:18:14.804409
+STU-0099,Austin,Whitaker,melaniewolf@example.com,2025-03-02,Business,2026-04-16T13:18:14.804661
+STU-0100,Larry,Perez,jrojas@example.com,2025-11-28,Physics,2026-04-16T13:18:14.804883
+STU-0101,Jimmy,Gibson,bradleygray@example.net,2022-09-10,Engineering,2026-04-16T13:18:14.805161
+STU-0102,Charles,Johnson,woodschristopher@example.org,2023-12-01,Engineering,2026-04-16T13:18:14.805424
+STU-0103,Joseph,Hill,carmenreed@example.com,2024-10-30,Business,2026-04-16T13:18:14.805684
+STU-0104,Daniel,Edwards,cknapp@example.com,2022-07-14,Computer Science,2026-04-16T13:18:14.805896
+STU-0105,Cheryl,Davis,andrewsteresa@example.com,2026-02-09,Biology,2026-04-16T13:18:14.806274
+STU-0106,Melissa,Meyer,onealbrett@example.net,2024-06-05,Computer Science,2026-04-16T13:18:14.806563
+STU-0107,Tammy,Lynch,zturner@example.net,2022-11-01,Computer Science,2026-04-16T13:18:14.806892
+STU-0108,Kenneth,Ford,howardbenjamin@example.org,2023-06-28,Computer Science,2026-04-16T13:18:14.807201
+STU-0109,Steven,Myers,cobbharry@example.com,2022-05-07,Physics,2026-04-16T13:18:14.807730
+STU-0110,Larry,Walters,ypeterson@example.org,2022-09-16,Chemistry,2026-04-16T13:18:14.807988
+STU-0111,Mary,Martin,dominguezheather@example.com,2024-12-30,Biology,2026-04-16T13:18:14.808292
+STU-0112,Roberto,Allen,cuevassamuel@example.org,2022-05-07,Physics,2026-04-16T13:18:14.808555
+STU-0113,Katie,Maldonado,maymatthew@example.com,2024-02-18,Mathematics,2026-04-16T13:18:14.808817
+STU-0114,Christina,Smith,laurasawyer@example.com,2023-08-31,Mathematics,2026-04-16T13:18:14.809179
+STU-0115,Stephanie,Kennedy,jaywolf@example.org,2025-12-23,Mathematics,2026-04-16T13:18:14.809505
+STU-0116,Mike,Moreno,qmiller@example.com,2025-04-20,Mathematics,2026-04-16T13:18:14.809916
+STU-0117,Sharon,Ellis,iprice@example.com,2024-07-21,Physics,2026-04-16T13:18:14.810160
+STU-0118,Jerome,Singh,brightkristopher@example.com,2026-03-22,Physics,2026-04-16T13:18:14.810496
+STU-0119,Ian,Walters,pearsonsuzanne@example.net,2025-12-02,Engineering,2026-04-16T13:18:14.810777
+STU-0120,David,Fox,pthompson@example.net,2025-05-22,Biology,2026-04-16T13:18:14.811034
+STU-0121,Jesse,Romero,sclarke@example.net,2025-09-29,Physics,2026-04-16T13:18:14.811255
+STU-0122,Mitchell,Gonzalez,qhanna@example.com,2022-04-24,Computer Science,2026-04-16T13:18:14.811494
+STU-0123,Alicia,Haas,hmoore@example.com,2023-06-10,Engineering,2026-04-16T13:18:14.811713
+STU-0124,Cassandra,Moore,robertlester@example.org,2024-01-02,Chemistry,2026-04-16T13:18:14.811974
+STU-0125,Christopher,Schmidt,shelly49@example.net,2022-05-09,Biology,2026-04-16T13:18:14.812172
+STU-0126,William,Smith,travis14@example.com,2024-07-27,Physics,2026-04-16T13:18:14.812423
+STU-0127,David,Livingston,harperrachel@example.net,2025-02-23,Physics,2026-04-16T13:18:14.812698
+STU-0128,David,Lewis,fbishop@example.com,2026-02-22,Business,2026-04-16T13:18:14.812931
+STU-0129,Jennifer,Rivera,julie98@example.net,2024-06-11,Chemistry,2026-04-16T13:18:14.813134
+STU-0130,James,Baldwin,williamsdavid@example.net,2024-02-07,Chemistry,2026-04-16T13:18:14.813550
+STU-0131,John,Hubbard,travis51@example.com,2023-08-25,Physics,2026-04-16T13:18:14.814296
+STU-0132,Paula,Melendez,cmitchell@example.com,2022-11-08,Chemistry,2026-04-16T13:18:14.814577
+STU-0133,Randall,Morales,jennifer95@example.net,2025-01-17,Engineering,2026-04-16T13:18:14.814790
+STU-0134,Clayton,Richardson,carolcraig@example.net,2024-08-29,Biology,2026-04-16T13:18:14.815051
+STU-0135,Jason,Johnson,dwalters@example.com,2022-04-22,Mathematics,2026-04-16T13:18:14.815267
+STU-0136,Katie,Phelps,burnsjacob@example.net,2023-06-20,Biology,2026-04-16T13:18:14.815553
+STU-0137,Keith,Garcia,wilcoxcory@example.org,2024-11-16,Biology,2026-04-16T13:18:14.815812
+STU-0138,Sarah,Stuart,crystalrichards@example.com,2024-01-10,Engineering,2026-04-16T13:18:14.816067
+STU-0139,Jenna,Morse,jason01@example.org,2024-03-11,Engineering,2026-04-16T13:18:14.816275
+STU-0140,Crystal,Cunningham,victoralvarez@example.org,2024-01-31,Computer Science,2026-04-16T13:18:14.816552
+STU-0141,Rebecca,Ali,carmenhill@example.net,2025-02-08,Engineering,2026-04-16T13:18:14.816816
+STU-0142,David,Mills,whitakerrandy@example.org,2024-01-25,Engineering,2026-04-16T13:18:14.817071
+STU-0143,Hector,Hodges,stewartdaniel@example.net,2022-07-06,Physics,2026-04-16T13:18:14.817353
+STU-0144,Nichole,Willis,glewis@example.com,2025-01-22,Chemistry,2026-04-16T13:18:14.817569
+STU-0145,Jennifer,Ward,egreen@example.com,2024-05-07,Computer Science,2026-04-16T13:18:14.817784
+STU-0146,Joel,Ayala,woodkevin@example.org,2022-06-07,Computer Science,2026-04-16T13:18:14.818051
+STU-0147,Tonya,Lopez,willisjoshua@example.com,2025-03-19,Engineering,2026-04-16T13:18:14.818322
+STU-0148,Darren,Pittman,emilygeorge@example.com,2024-03-19,Chemistry,2026-04-16T13:18:14.818599
+STU-0149,Kenneth,Mcgee,christian44@example.net,2022-05-10,Chemistry,2026-04-16T13:18:14.818796
+STU-0150,John,Randall,qblackburn@example.com,2024-04-16,Computer Science,2026-04-16T13:18:14.819007
+STU-0151,Tyler,Smith,jacobshort@example.net,2024-12-26,Physics,2026-04-16T13:18:14.819262
+STU-0152,Sarah,Reilly,zacharyward@example.org,2022-08-23,Mathematics,2026-04-16T13:18:14.819541
+STU-0153,Beth,Hebert,michaelromero@example.org,2025-11-22,Chemistry,2026-04-16T13:18:14.819800
+STU-0154,Jessica,Reed,mistymorris@example.com,2024-07-14,Business,2026-04-16T13:18:14.820059
+STU-0155,Paul,Merritt,emeyer@example.org,2025-11-10,Computer Science,2026-04-16T13:18:14.820282
+STU-0156,Katelyn,Boyle,laura23@example.net,2023-09-18,Mathematics,2026-04-16T13:18:14.820501
+STU-0157,Travis,Roberson,matthew72@example.com,2023-10-03,Biology,2026-04-16T13:18:14.820696
+STU-0158,Suzanne,Mckee,hroth@example.org,2023-09-08,Physics,2026-04-16T13:18:14.820910
+STU-0159,Tina,Barron,maria22@example.org,2022-04-24,Computer Science,2026-04-16T13:18:14.821106
+STU-0160,John,Campos,racheljones@example.net,2023-04-12,Physics,2026-04-16T13:18:14.821387
+STU-0161,Ryan,Garza,nlee@example.com,2023-12-21,Biology,2026-04-16T13:18:14.821604
+STU-0162,Andre,Sanchez,connor96@example.com,2023-08-07,Biology,2026-04-16T13:18:14.821804
+STU-0163,Perry,Smith,kelly65@example.net,2023-01-08,Engineering,2026-04-16T13:18:14.822037
+STU-0164,Kevin,Herrera,joshua93@example.net,2025-05-10,Physics,2026-04-16T13:18:14.822266
+STU-0165,Thomas,Cross,sean47@example.net,2025-01-25,Physics,2026-04-16T13:18:14.822493
+STU-0166,Christie,Graves,shannonmaldonado@example.net,2025-12-28,Chemistry,2026-04-16T13:18:14.822756
+STU-0167,Emily,Holloway,austin73@example.org,2026-03-07,Business,2026-04-16T13:18:14.822952
+STU-0168,Victor,Austin,ethompson@example.org,2023-11-12,Mathematics,2026-04-16T13:18:14.823165
+STU-0169,Robert,Pratt,hallbetty@example.net,2025-06-07,Biology,2026-04-16T13:18:14.823446
+STU-0170,Joshua,Wade,amymiller@example.net,2022-12-18,Computer Science,2026-04-16T13:18:14.823708
+STU-0171,Thomas,Robertson,nicolefernandez@example.net,2022-06-25,Biology,2026-04-16T13:18:14.823962
+STU-0172,Sherry,Young,andersonricky@example.com,2025-07-01,Mathematics,2026-04-16T13:18:14.824614
+STU-0173,Cory,Mcdonald,kyleavery@example.net,2025-07-23,Business,2026-04-16T13:18:14.825126
+STU-0174,Beth,Perez,katie47@example.com,2022-07-29,Physics,2026-04-16T13:18:14.825375
+STU-0175,Veronica,Rodriguez,samantha39@example.com,2024-06-23,Chemistry,2026-04-16T13:18:14.825977
+STU-0176,Leslie,Lawrence,smoore@example.org,2022-07-31,Biology,2026-04-16T13:18:14.826528
+STU-0177,Anna,Silva,camposjohn@example.com,2024-01-13,Computer Science,2026-04-16T13:18:14.826891
+STU-0178,Steven,Wilson,robertsallison@example.org,2022-06-30,Engineering,2026-04-16T13:18:14.827274
+STU-0179,Matthew,Malone,ncrosby@example.net,2023-10-31,Chemistry,2026-04-16T13:18:14.827536
+STU-0180,Sean,Johnson,mark67@example.net,2023-04-23,Biology,2026-04-16T13:18:14.827749
+STU-0181,Luke,Martinez,stevenrodriguez@example.org,2024-02-23,Physics,2026-04-16T13:18:14.828022
+STU-0182,Gregory,Day,coxkaren@example.org,2022-05-23,Mathematics,2026-04-16T13:18:14.828317
+STU-0183,Shawn,Gonzales,kenneth31@example.net,2025-05-06,Computer Science,2026-04-16T13:18:14.828520
+STU-0184,Glenn,Hall,annette40@example.org,2026-01-25,Biology,2026-04-16T13:18:14.828790
+STU-0185,Elizabeth,Freeman,jmoore@example.org,2026-02-26,Business,2026-04-16T13:18:14.829125
+STU-0186,Steven,Thompson,dknight@example.org,2022-08-25,Chemistry,2026-04-16T13:18:14.829372
+STU-0187,Theresa,Hernandez,mcdonaldmary@example.org,2022-08-19,Business,2026-04-16T13:18:14.829633
+STU-0188,Jeffrey,Banks,tlopez@example.org,2023-10-29,Biology,2026-04-16T13:18:14.829843
+STU-0189,Lauren,Coleman,williamstimothy@example.org,2024-10-17,Business,2026-04-16T13:18:14.830099
+STU-0190,Peter,Vincent,hilljennifer@example.com,2023-07-13,Engineering,2026-04-16T13:18:14.830382
+STU-0191,Brandy,Jenkins,ebony38@example.org,2024-08-23,Mathematics,2026-04-16T13:18:14.830578
+STU-0192,Tyler,Jones,pettykristin@example.net,2025-06-11,Business,2026-04-16T13:18:14.830845
+STU-0193,Paul,Taylor,tiffanysandoval@example.net,2024-12-19,Mathematics,2026-04-16T13:18:14.831109
+STU-0194,Maria,Hill,yhenderson@example.org,2025-08-23,Business,2026-04-16T13:18:14.831346
+STU-0195,Margaret,Harrell,christinesummers@example.net,2022-05-24,Biology,2026-04-16T13:18:14.831601
+STU-0196,Samantha,Gardner,hblair@example.com,2023-11-27,Business,2026-04-16T13:18:14.831812
+STU-0197,Renee,Jones,frederick02@example.com,2023-01-30,Biology,2026-04-16T13:18:14.832008
+STU-0198,David,Ibarra,josephcarroll@example.com,2024-03-08,Engineering,2026-04-16T13:18:14.832286
+STU-0199,Natalie,Solomon,amber39@example.com,2022-07-18,Business,2026-04-16T13:18:14.832483
+STU-0200,James,Ray,erogers@example.com,2025-06-14,Computer Science,2026-04-16T13:18:14.832706
+STU-0201,Michelle,Livingston,steven19@example.net,2023-05-05,Physics,2026-04-16T13:18:14.832912
+STU-0202,Matthew,Woodward,reederic@example.com,2025-05-08,Biology,2026-04-16T13:18:14.833178
+STU-0203,Matthew,Davis,rwhite@example.com,2025-08-06,Physics,2026-04-16T13:18:14.833412
+STU-0204,Steven,Curry,kathy47@example.net,2024-11-07,Chemistry,2026-04-16T13:18:14.833638
+STU-0205,Andrew,Snyder,scastro@example.net,2024-04-25,Chemistry,2026-04-16T13:18:14.833855
+STU-0206,Carolyn,Gates,lstevenson@example.org,2025-02-06,Engineering,2026-04-16T13:18:14.834074
+STU-0207,Matthew,Weber,allisonlewis@example.org,2026-02-16,Engineering,2026-04-16T13:18:14.834362
+STU-0208,Melissa,Green,julia94@example.org,2026-04-09,Physics,2026-04-16T13:18:14.834565
+STU-0209,Shawn,Sanders,emacdonald@example.com,2026-01-24,Biology,2026-04-16T13:18:14.834792
+STU-0210,Tammy,Ward,nolson@example.net,2025-01-26,Engineering,2026-04-16T13:18:14.835015
+STU-0211,Jacob,Martinez,washingtonmaria@example.com,2025-08-31,Biology,2026-04-16T13:18:14.835322
+STU-0212,Paul,Cabrera,millererik@example.net,2022-10-24,Engineering,2026-04-16T13:18:14.835585
+STU-0213,Diana,Hill,veronica89@example.org,2024-12-31,Engineering,2026-04-16T13:18:14.835821
+STU-0214,Meagan,Carter,jennifer92@example.net,2025-05-25,Engineering,2026-04-16T13:18:14.836017
+STU-0215,Sherry,Herrera,stephenking@example.net,2022-07-05,Engineering,2026-04-16T13:18:14.836296
+STU-0216,Ashley,Stephens,utate@example.net,2025-10-27,Chemistry,2026-04-16T13:18:14.836508
+STU-0217,Amy,Jones,timothygonzalez@example.com,2022-12-21,Physics,2026-04-16T13:18:14.836782
+STU-0218,Michael,Cole,jennifer49@example.com,2024-12-01,Engineering,2026-04-16T13:18:14.836981
+STU-0219,James,Allen,brady79@example.com,2025-03-20,Physics,2026-04-16T13:18:14.837176
+STU-0220,Renee,Harris,emily01@example.net,2023-02-12,Mathematics,2026-04-16T13:18:14.837389
+STU-0221,Kevin,Zhang,corey20@example.com,2026-03-15,Chemistry,2026-04-16T13:18:14.837584
+STU-0222,Matthew,Hernandez,reyesmartha@example.org,2025-06-08,Chemistry,2026-04-16T13:18:14.837838
+STU-0223,Anita,Bell,alexandersantana@example.com,2022-05-22,Chemistry,2026-04-16T13:18:14.838092
+STU-0224,Anna,Simpson,nthompson@example.com,2026-04-07,Physics,2026-04-16T13:18:14.838326
+STU-0225,Julie,Willis,cohenjennifer@example.com,2025-10-05,Physics,2026-04-16T13:18:14.838586
+STU-0226,James,Schroeder,marcriggs@example.com,2023-03-08,Physics,2026-04-16T13:18:14.838852
+STU-0227,Ryan,Green,woodsneil@example.net,2025-10-08,Business,2026-04-16T13:18:14.839105
+STU-0228,Michael,Owen,emiller@example.com,2024-04-24,Business,2026-04-16T13:18:14.839341
+STU-0229,Robert,Mckinney,allisonsmith@example.org,2026-03-05,Chemistry,2026-04-16T13:18:14.839597
+STU-0230,Carol,Johnson,treynolds@example.org,2022-05-01,Physics,2026-04-16T13:18:14.839809
+STU-0231,Dean,Stark,stevenclark@example.com,2022-09-08,Biology,2026-04-16T13:18:14.840072
+STU-0232,Nicole,Jackson,leereginald@example.com,2024-12-22,Physics,2026-04-16T13:18:14.840353
+STU-0233,Yolanda,Silva,david88@example.net,2022-12-06,Physics,2026-04-16T13:18:14.840550
+STU-0234,Dawn,Cannon,annahurst@example.net,2023-02-02,Engineering,2026-04-16T13:18:14.841988
+STU-0235,Lori,Adams,jennifer01@example.org,2023-08-21,Mathematics,2026-04-16T13:18:14.842351
+STU-0236,Jeffrey,Wilson,mvillegas@example.com,2024-05-06,Mathematics,2026-04-16T13:18:14.842622
+STU-0237,Eric,Williams,michaelmassey@example.com,2025-01-24,Engineering,2026-04-16T13:18:14.842900
+STU-0238,Stephanie,Turner,ojohnston@example.org,2025-01-05,Physics,2026-04-16T13:18:14.843306
+STU-0239,Morgan,Morris,lwalker@example.net,2022-12-21,Engineering,2026-04-16T13:18:14.843668
+STU-0240,Valerie,Greer,lindseyscott@example.com,2025-01-06,Chemistry,2026-04-16T13:18:14.843946
+STU-0241,Elizabeth,Montoya,krystalobrien@example.org,2026-01-02,Physics,2026-04-16T13:18:14.844210
+STU-0242,Nicole,Koch,gsmith@example.org,2024-01-31,Physics,2026-04-16T13:18:14.844448
+STU-0243,Tara,Hall,ramseysteven@example.org,2025-01-10,Physics,2026-04-16T13:18:14.844707
+STU-0244,Alice,Hines,sarahsimpson@example.org,2026-02-09,Physics,2026-04-16T13:18:14.844969
+STU-0245,John,Jones,greentimothy@example.org,2024-03-09,Mathematics,2026-04-16T13:18:14.845242
+STU-0246,Tracey,Pugh,vdixon@example.com,2026-04-14,Engineering,2026-04-16T13:18:14.845484
+STU-0247,Christopher,Shelton,xsaunders@example.com,2022-10-15,Chemistry,2026-04-16T13:18:14.845698
+STU-0248,Jennifer,Berry,kellyatkinson@example.net,2025-09-26,Mathematics,2026-04-16T13:18:14.845965
+STU-0249,Michael,Tran,suzannehenry@example.org,2024-11-21,Chemistry,2026-04-16T13:18:14.846220
+STU-0250,Gina,Miller,lewisjennifer@example.com,2023-07-08,Mathematics,2026-04-16T13:18:14.846501
+STU-0251,Kenneth,Ramirez,rodriguezcody@example.com,2024-04-11,Biology,2026-04-16T13:18:14.846763
+STU-0252,Amanda,Juarez,aaron13@example.com,2023-03-30,Computer Science,2026-04-16T13:18:14.846960
+STU-0253,Tommy,Boyd,oedwards@example.net,2024-08-29,Mathematics,2026-04-16T13:18:14.847186
+STU-0254,Christopher,Morris,xowens@example.net,2023-07-13,Mathematics,2026-04-16T13:18:14.847398
+STU-0255,Steven,Rowland,adammorton@example.com,2025-12-18,Engineering,2026-04-16T13:18:14.847673
+STU-0256,Cheryl,Jones,cabreralindsay@example.net,2023-09-04,Engineering,2026-04-16T13:18:14.847928
+STU-0257,Judy,Bailey,juan73@example.org,2026-04-12,Engineering,2026-04-16T13:18:14.848123
+STU-0258,John,Figueroa,johnsonpatricia@example.org,2024-05-14,Computer Science,2026-04-16T13:18:14.848378
+STU-0259,Vincent,Hays,jermaine87@example.net,2022-10-10,Engineering,2026-04-16T13:18:14.848596
+STU-0260,Ashley,Davis,ivillarreal@example.net,2022-04-26,Computer Science,2026-04-16T13:18:14.848815
+STU-0261,Carl,Wood,bryanchristine@example.com,2025-01-14,Biology,2026-04-16T13:18:14.849079
+STU-0262,Joseph,Miller,parkerpatrick@example.com,2025-08-26,Chemistry,2026-04-16T13:18:14.849349
+STU-0263,Daisy,Parker,christianrodriguez@example.net,2025-10-09,Engineering,2026-04-16T13:18:14.849626
+STU-0264,Michael,Davis,karinameadows@example.org,2022-08-11,Mathematics,2026-04-16T13:18:14.849887
+STU-0265,Joseph,Andersen,ashleynelson@example.net,2022-05-18,Business,2026-04-16T13:18:14.850147
+STU-0266,Laura,Miller,heather74@example.com,2026-03-15,Chemistry,2026-04-16T13:18:14.850382
+STU-0267,Kyle,Gordon,warnerpaul@example.org,2025-10-26,Physics,2026-04-16T13:18:14.850671
+STU-0268,Joseph,Waters,brett42@example.com,2022-06-21,Business,2026-04-16T13:18:14.850869
+STU-0269,Jason,Schwartz,uwagner@example.com,2023-09-04,Physics,2026-04-16T13:18:14.851077
+STU-0270,Alexander,Hull,shannonjohnson@example.net,2024-12-25,Chemistry,2026-04-16T13:18:14.851345
+STU-0271,Jenna,Chen,josephdunn@example.net,2022-11-20,Business,2026-04-16T13:18:14.851619
+STU-0272,Michael,Bass,williamdavis@example.net,2025-06-30,Engineering,2026-04-16T13:18:14.851874
+STU-0273,Melanie,Stevens,pricecrystal@example.com,2022-09-30,Physics,2026-04-16T13:18:14.852135
+STU-0274,Stephanie,Lewis,hreese@example.com,2026-03-19,Computer Science,2026-04-16T13:18:14.852344
+STU-0275,Rachel,Parker,john48@example.net,2026-01-27,Biology,2026-04-16T13:18:14.852559
+STU-0276,Anthony,Meyer,robinsonmelissa@example.com,2023-07-13,Computer Science,2026-04-16T13:18:14.852816
+STU-0277,Shane,Porter,armstrongjason@example.net,2023-12-02,Engineering,2026-04-16T13:18:14.853073
+STU-0278,Brent,Fischer,colesherry@example.net,2022-12-07,Business,2026-04-16T13:18:14.853343
+STU-0279,Alyssa,Flores,hernandezkristin@example.org,2022-08-18,Computer Science,2026-04-16T13:18:14.853620
+STU-0280,Joshua,Shelton,ian38@example.com,2023-03-26,Chemistry,2026-04-16T13:18:14.853815
+STU-0281,Sherry,Snyder,carriegreen@example.com,2024-08-30,Computer Science,2026-04-16T13:18:14.854079
+STU-0282,Kevin,Hutchinson,lawsonjeremy@example.net,2022-09-24,Business,2026-04-16T13:18:14.854335
+STU-0283,Lauren,Bailey,crystalcole@example.org,2024-01-12,Biology,2026-04-16T13:18:14.854611
+STU-0284,Joanna,George,nelsonmichael@example.net,2022-06-07,Biology,2026-04-16T13:18:14.854899
+STU-0285,Linda,Meyer,melissahughes@example.com,2023-03-14,Physics,2026-04-16T13:18:14.855164
+STU-0286,Cory,Vincent,davisroy@example.org,2025-09-26,Chemistry,2026-04-16T13:18:14.855452
+STU-0287,Jade,Blair,kingholly@example.org,2024-12-25,Mathematics,2026-04-16T13:18:14.855713
+STU-0288,Joshua,Johnson,benjaminlittle@example.net,2024-05-22,Physics,2026-04-16T13:18:14.856058
+STU-0289,Jacqueline,Mcneil,katherinestewart@example.net,2025-03-15,Business,2026-04-16T13:18:14.856491
+STU-0290,Rebecca,Camacho,gregorysanders@example.com,2024-11-24,Mathematics,2026-04-16T13:18:14.856808
+STU-0291,Michelle,Cooley,williamflores@example.net,2024-06-13,Business,2026-04-16T13:18:14.857081
+STU-0292,David,Butler,michaelreilly@example.org,2025-03-09,Computer Science,2026-04-16T13:18:14.857339
+STU-0293,Beth,Ross,moramelissa@example.net,2026-03-01,Physics,2026-04-16T13:18:14.857727
+STU-0294,Justin,Silva,alexandraperkins@example.com,2023-12-17,Biology,2026-04-16T13:18:14.858002
+STU-0295,David,George,montgomerydenise@example.com,2024-02-16,Business,2026-04-16T13:18:14.858279
+STU-0296,Donald,Williams,brandi32@example.net,2022-09-23,Biology,2026-04-16T13:18:14.858477
+STU-0297,Michael,Brown,ujohnson@example.org,2022-08-25,Computer Science,2026-04-16T13:18:14.858923
+STU-0298,Johnathan,Burke,rshepard@example.com,2023-01-14,Biology,2026-04-16T13:18:14.859186
+STU-0299,Michael,Moore,jillbridges@example.org,2023-09-11,Biology,2026-04-16T13:18:14.859506
+STU-0300,Ann,Bradshaw,mooretanya@example.org,2022-08-10,Computer Science,2026-04-16T13:18:14.859769
+STU-0301,Lacey,Clements,lindsay36@example.org,2026-01-31,Mathematics,2026-04-16T13:18:14.859981
+STU-0302,Debbie,Jones,david08@example.net,2024-06-29,Engineering,2026-04-16T13:18:14.860178
+STU-0303,Dennis,Wilson,mcdaniellinda@example.net,2024-11-21,Engineering,2026-04-16T13:18:14.860461
+STU-0304,Kelly,Brooks,william47@example.com,2024-01-01,Biology,2026-04-16T13:18:14.861285
+STU-0305,Shawn,Elliott,wbrooks@example.net,2024-09-29,Chemistry,2026-04-16T13:18:14.861616
+STU-0306,Lori,Christensen,wendybowers@example.net,2023-01-31,Engineering,2026-04-16T13:18:14.861893
+STU-0307,Michael,Franklin,rochaangela@example.com,2023-06-29,Biology,2026-04-16T13:18:14.862150
+STU-0308,Patricia,Williams,harveydavid@example.org,2026-01-03,Biology,2026-04-16T13:18:14.862515
+STU-0309,Laura,Franklin,uryan@example.net,2023-09-17,Chemistry,2026-04-16T13:18:14.862737
+STU-0310,Amanda,Reid,brendajackson@example.org,2024-08-02,Engineering,2026-04-16T13:18:14.863026
+STU-0311,Jennifer,Wilkins,grimeschase@example.net,2023-04-04,Physics,2026-04-16T13:18:14.863385
+STU-0312,Debra,Lopez,dawn46@example.org,2024-12-13,Business,2026-04-16T13:18:14.863614
+STU-0313,Christopher,Olson,khuerta@example.org,2023-02-27,Business,2026-04-16T13:18:14.863835
+STU-0314,Colton,Smith,chaneymichael@example.net,2023-12-18,Biology,2026-04-16T13:18:14.864091
+STU-0315,Tina,Mooney,johnsonstephanie@example.net,2023-02-21,Physics,2026-04-16T13:18:14.864348
+STU-0316,Robert,Conrad,bennettkristin@example.org,2023-10-02,Mathematics,2026-04-16T13:18:14.864631
+STU-0317,Vanessa,Stewart,matthew91@example.org,2024-02-12,Mathematics,2026-04-16T13:18:14.864827
+STU-0318,Elizabeth,Lee,caseterri@example.org,2022-10-26,Engineering,2026-04-16T13:18:14.865099
+STU-0319,Kristine,Schwartz,melissabrady@example.com,2024-07-27,Business,2026-04-16T13:18:14.865443
+STU-0320,Maria,Contreras,karen61@example.net,2024-12-08,Mathematics,2026-04-16T13:18:14.865649
+STU-0321,Beverly,Howard,yford@example.org,2022-07-22,Chemistry,2026-04-16T13:18:14.865864
+STU-0322,Stephanie,Dixon,mcgeejesse@example.org,2025-12-10,Mathematics,2026-04-16T13:18:14.866125
+STU-0323,Rebecca,Melton,hillmichelle@example.org,2024-10-12,Engineering,2026-04-16T13:18:14.866382
+STU-0324,Suzanne,Mccall,gentrykelly@example.com,2023-07-05,Biology,2026-04-16T13:18:14.866663
+STU-0325,Erik,Sanchez,paul02@example.org,2022-08-26,Physics,2026-04-16T13:18:14.866859
+STU-0326,Jonathan,Mckenzie,stephaniemorgan@example.org,2023-12-27,Engineering,2026-04-16T13:18:14.867127
+STU-0327,Daniel,Fletcher,hcoffey@example.net,2025-03-11,Chemistry,2026-04-16T13:18:14.867346
+STU-0328,Elizabeth,Moore,jessicatate@example.net,2026-01-04,Biology,2026-04-16T13:18:14.867622
+STU-0329,Elizabeth,Thomas,brianwade@example.com,2024-10-03,Mathematics,2026-04-16T13:18:14.867885
+STU-0330,Daniel,Williams,emoyer@example.org,2025-08-04,Engineering,2026-04-16T13:18:14.868097
+STU-0331,Matthew,Anderson,christopherdavis@example.net,2024-09-25,Physics,2026-04-16T13:18:14.868386
+STU-0332,Angela,Huber,ericksonnicholas@example.net,2024-12-06,Business,2026-04-16T13:18:14.868665
+STU-0333,Kevin,Haney,fgray@example.net,2024-09-13,Engineering,2026-04-16T13:18:14.868875
+STU-0334,Sonya,Foley,mccarthystephanie@example.org,2025-08-30,Computer Science,2026-04-16T13:18:14.869142
+STU-0335,Bradley,Brown,hsanders@example.com,2025-12-07,Physics,2026-04-16T13:18:14.869361
+STU-0336,Darius,Jones,chankaren@example.net,2023-06-27,Computer Science,2026-04-16T13:18:14.869640
+STU-0337,Elizabeth,Perez,mariacobb@example.com,2023-08-26,Business,2026-04-16T13:18:14.869898
+STU-0338,Jonathan,Pierce,nicolemartin@example.net,2022-10-08,Chemistry,2026-04-16T13:18:14.870159
+STU-0339,Michael,Lyons,michaellynch@example.net,2026-02-15,Physics,2026-04-16T13:18:14.870434
+STU-0340,James,Patterson,kevin77@example.org,2026-02-19,Business,2026-04-16T13:18:14.870643
+STU-0341,Karen,Armstrong,parksabrina@example.com,2023-05-13,Engineering,2026-04-16T13:18:14.870906
+STU-0342,George,Lewis,jbarnes@example.org,2022-09-02,Engineering,2026-04-16T13:18:14.871117
+STU-0343,Kaitlyn,Villarreal,silvacharles@example.org,2022-07-17,Business,2026-04-16T13:18:14.871431
+STU-0344,Michelle,Boyd,janet76@example.com,2025-05-12,Engineering,2026-04-16T13:18:14.871650
+STU-0345,Joseph,Moore,hernandezamanda@example.org,2022-11-28,Chemistry,2026-04-16T13:18:14.871907
+STU-0346,Antonio,Munoz,bramirez@example.org,2024-05-12,Biology,2026-04-16T13:18:14.872122
+STU-0347,Victoria,Sanchez,craneerik@example.org,2025-01-17,Computer Science,2026-04-16T13:18:14.872375
+STU-0348,Audrey,Powers,phebert@example.net,2025-03-27,Chemistry,2026-04-16T13:18:14.872615
+STU-0349,Jo,Ruiz,austin96@example.net,2025-07-12,Engineering,2026-04-16T13:18:14.872810
+STU-0350,Sandra,Thomas,morganorr@example.com,2023-07-05,Computer Science,2026-04-16T13:18:14.873075
+STU-0351,Elizabeth,Phillips,markburke@example.com,2024-08-23,Business,2026-04-16T13:18:14.873337
+STU-0352,Scott,Mendoza,sanchezlaura@example.com,2023-06-18,Computer Science,2026-04-16T13:18:14.873612
+STU-0353,Shane,Clay,kelly38@example.org,2024-10-24,Mathematics,2026-04-16T13:18:14.873811
+STU-0354,Shannon,Patrick,melanie44@example.com,2026-04-09,Business,2026-04-16T13:18:14.874008
+STU-0355,Shannon,Rivera,stoutjames@example.net,2024-03-19,Computer Science,2026-04-16T13:18:14.874476
+STU-0356,Raymond,Schaefer,stacy99@example.org,2024-03-16,Business,2026-04-16T13:18:14.875686
+STU-0357,Thomas,Baker,andrea85@example.com,2022-11-11,Computer Science,2026-04-16T13:18:14.876202
+STU-0358,Yvonne,Weber,alvareztara@example.net,2024-03-28,Biology,2026-04-16T13:18:14.876987
+STU-0359,Emily,Leon,hebertstephanie@example.net,2024-07-03,Mathematics,2026-04-16T13:18:14.877309
+STU-0360,Samantha,Miller,phillipsjessica@example.net,2022-07-09,Mathematics,2026-04-16T13:18:14.877968
+STU-0361,Tammy,Martinez,howelljohn@example.net,2025-10-22,Mathematics,2026-04-16T13:18:14.878304
+STU-0362,Sabrina,Flores,murraysheri@example.net,2023-05-04,Biology,2026-04-16T13:18:14.878622
+STU-0363,Nancy,Ramirez,uparker@example.com,2024-06-22,Mathematics,2026-04-16T13:18:14.878874
+STU-0364,David,Warner,kimberlyfrancis@example.org,2023-04-20,Physics,2026-04-16T13:18:14.879302
+STU-0365,Kathy,Villanueva,kramernicholas@example.com,2025-04-23,Physics,2026-04-16T13:18:14.879650
+STU-0366,Dustin,Ramirez,xjenkins@example.com,2026-03-01,Mathematics,2026-04-16T13:18:14.879994
+STU-0367,Jessica,Sutton,meganramirez@example.com,2023-08-26,Mathematics,2026-04-16T13:18:14.880322
+STU-0368,Kristy,Long,alexanderholden@example.net,2024-07-20,Mathematics,2026-04-16T13:18:14.880678
+STU-0369,Jared,Pitts,phillipsamy@example.org,2025-11-08,Computer Science,2026-04-16T13:18:14.880977
+STU-0370,Cole,Fisher,marygarcia@example.org,2025-11-18,Business,2026-04-16T13:18:14.881237
+STU-0371,Luis,Jacobs,athomas@example.org,2024-08-04,Physics,2026-04-16T13:18:14.881459
+STU-0372,John,Herrera,heatherdiaz@example.net,2025-06-17,Chemistry,2026-04-16T13:18:14.881750
+STU-0373,Douglas,Mercer,jamesfarmer@example.org,2026-03-31,Computer Science,2026-04-16T13:18:14.882012
+STU-0374,Michael,Barker,hhood@example.net,2023-10-06,Mathematics,2026-04-16T13:18:14.882226
+STU-0375,Dawn,Scott,patrickperkins@example.org,2025-03-08,Mathematics,2026-04-16T13:18:14.882484
+STU-0376,Scott,Moore,hernandezjason@example.net,2023-02-22,Computer Science,2026-04-16T13:18:14.882777
+STU-0377,Shawn,Martinez,ashepard@example.com,2024-07-11,Chemistry,2026-04-16T13:18:14.882994
+STU-0378,Peter,Munoz,velasquezkatherine@example.net,2026-04-13,Mathematics,2026-04-16T13:18:14.883273
+STU-0379,Nathan,Cox,farmerbrenda@example.org,2025-10-16,Computer Science,2026-04-16T13:18:14.883552
+STU-0380,Christy,Harmon,jason46@example.org,2022-08-07,Business,2026-04-16T13:18:14.883784
+STU-0381,Kristen,Lee,emilylee@example.com,2023-01-07,Chemistry,2026-04-16T13:18:14.884053
+STU-0382,Christine,Hernandez,zachary19@example.com,2023-12-05,Biology,2026-04-16T13:18:14.884256
+STU-0383,Nathaniel,Powell,adammorgan@example.com,2023-01-18,Physics,2026-04-16T13:18:14.884515
+STU-0384,Selena,Vance,johngamble@example.net,2023-10-10,Biology,2026-04-16T13:18:14.884798
+STU-0385,Luke,Bates,ochapman@example.com,2025-09-10,Mathematics,2026-04-16T13:18:14.885010
+STU-0386,Robert,King,vpace@example.org,2023-12-22,Mathematics,2026-04-16T13:18:14.885220
+STU-0387,Michael,Dominguez,meltonzachary@example.net,2025-04-03,Business,2026-04-16T13:18:14.885562
+STU-0388,Derek,Ingram,hornsean@example.com,2022-05-17,Business,2026-04-16T13:18:14.885846
+STU-0389,Stacie,Roberts,rtravis@example.net,2024-07-07,Computer Science,2026-04-16T13:18:14.886064
+STU-0390,Wanda,James,timothy23@example.com,2025-04-11,Business,2026-04-16T13:18:14.886260
+STU-0391,Erica,Gomez,melodywhite@example.com,2023-05-15,Mathematics,2026-04-16T13:18:14.886513
+STU-0392,Hannah,Ball,jwalsh@example.net,2022-05-30,Biology,2026-04-16T13:18:14.886750
+STU-0393,Susan,Werner,owalters@example.net,2024-06-14,Engineering,2026-04-16T13:18:14.886967
+STU-0394,Adrian,Christensen,rbrown@example.org,2023-04-16,Biology,2026-04-16T13:18:14.887202
+STU-0395,Ruth,Franklin,smarshall@example.org,2022-10-23,Biology,2026-04-16T13:18:14.887423
+STU-0396,Sierra,Bender,richarddavis@example.com,2024-12-26,Computer Science,2026-04-16T13:18:14.887711
+STU-0397,Brandi,Marks,jamesthomas@example.com,2023-03-25,Engineering,2026-04-16T13:18:14.887968
+STU-0398,Benjamin,Orr,ybrown@example.com,2025-10-04,Biology,2026-04-16T13:18:14.888181
+STU-0399,John,Robinson,derekgiles@example.com,2024-10-02,Mathematics,2026-04-16T13:18:14.888443
+STU-0400,Deborah,Thompson,hreed@example.org,2024-12-14,Mathematics,2026-04-16T13:18:14.888678
+STU-0401,Katherine,Martin,nicholssean@example.org,2025-06-13,Engineering,2026-04-16T13:18:14.888934
+STU-0402,Sylvia,Mcdonald,gabrielle46@example.net,2022-11-03,Chemistry,2026-04-16T13:18:14.889131
+STU-0403,Adrian,Garrett,christophermedina@example.net,2024-09-30,Chemistry,2026-04-16T13:18:14.889405
+STU-0404,Mitchell,Green,johnbarker@example.com,2026-03-28,Biology,2026-04-16T13:18:14.889683
+STU-0405,Kevin,Walsh,courtney50@example.net,2022-07-05,Engineering,2026-04-16T13:18:14.889880
+STU-0406,Robert,Bradford,pquinn@example.com,2025-11-10,Business,2026-04-16T13:18:14.890093
+STU-0407,Matthew,Sanchez,holtmichael@example.com,2025-05-24,Business,2026-04-16T13:18:14.890350
+STU-0408,Melissa,Mack,daviskevin@example.org,2025-10-03,Mathematics,2026-04-16T13:18:14.890600
+STU-0409,Robin,Torres,edwardsmichael@example.net,2022-09-09,Business,2026-04-16T13:18:14.892010
+STU-0410,Kimberly,Thompson,maddenmonica@example.org,2024-01-10,Mathematics,2026-04-16T13:18:14.892374
+STU-0411,Regina,Mathews,qhansen@example.com,2022-07-20,Physics,2026-04-16T13:18:14.892695
+STU-0412,Gina,Myers,schultzshane@example.net,2023-07-09,Mathematics,2026-04-16T13:18:14.893023
+STU-0413,Mark,Hopkins,coxashley@example.com,2022-05-20,Business,2026-04-16T13:18:14.893411
+STU-0414,Kevin,Long,uvelasquez@example.net,2024-07-17,Computer Science,2026-04-16T13:18:14.893878
+STU-0415,Brandon,Garcia,fosterlaura@example.net,2024-05-10,Engineering,2026-04-16T13:18:14.894302
+STU-0416,Bruce,Lee,denise08@example.org,2024-07-26,Mathematics,2026-04-16T13:18:14.894635
+STU-0417,Thomas,Smith,goodmanmatthew@example.net,2024-11-29,Physics,2026-04-16T13:18:14.894998
+STU-0418,Jose,Morris,paulhorn@example.com,2024-02-19,Engineering,2026-04-16T13:18:14.895268
+STU-0419,Tracy,Velez,mrodriguez@example.org,2025-01-07,Business,2026-04-16T13:18:14.895487
+STU-0420,Elizabeth,Douglas,shawnbuchanan@example.org,2025-09-24,Business,2026-04-16T13:18:14.895751
+STU-0421,Tammy,Hensley,adamjackson@example.com,2025-07-07,Business,2026-04-16T13:18:14.896046
+STU-0422,Carolyn,Mitchell,jeffery65@example.org,2025-11-07,Physics,2026-04-16T13:18:14.896255
+STU-0423,Thomas,Alexander,david06@example.com,2022-10-25,Biology,2026-04-16T13:18:14.896457
+STU-0424,Aaron,Taylor,adammcconnell@example.org,2025-01-30,Business,2026-04-16T13:18:14.896840
+STU-0425,Brandon,Miller,alexamendez@example.net,2023-05-24,Chemistry,2026-04-16T13:18:14.897187
+STU-0426,Debra,Rubio,malloryadams@example.com,2026-01-15,Mathematics,2026-04-16T13:18:14.897448
+STU-0427,David,Wood,traceydavis@example.org,2023-09-11,Chemistry,2026-04-16T13:18:14.897710
+STU-0428,Angela,Wood,kennethtaylor@example.net,2025-08-18,Engineering,2026-04-16T13:18:14.898000
+STU-0429,Ellen,Trujillo,allison06@example.org,2024-03-02,Mathematics,2026-04-16T13:18:14.898219
+STU-0430,Denise,Costa,bushderek@example.com,2023-10-06,Chemistry,2026-04-16T13:18:14.898489
+STU-0431,Kirsten,Suarez,brandon11@example.net,2026-02-08,Physics,2026-04-16T13:18:14.898686
+STU-0432,Kelly,Elliott,yesenia08@example.com,2025-03-02,Engineering,2026-04-16T13:18:14.898911
+STU-0433,Kathleen,Adams,riceryan@example.org,2025-03-22,Engineering,2026-04-16T13:18:14.899169
+STU-0434,Beth,Booker,ccrawford@example.com,2026-03-13,Computer Science,2026-04-16T13:18:14.899383
+STU-0435,Michelle,Fernandez,hoffmanstephanie@example.com,2024-07-28,Mathematics,2026-04-16T13:18:14.899645
+STU-0436,Robert,Hayden,donaldsonangela@example.net,2025-06-22,Mathematics,2026-04-16T13:18:14.899947
+STU-0437,Adrian,Erickson,henryjohnson@example.net,2025-11-16,Physics,2026-04-16T13:18:14.900217
+STU-0438,Joshua,Martin,blynn@example.com,2023-06-04,Business,2026-04-16T13:18:14.900429
+STU-0439,Zachary,Rodriguez,otaylor@example.net,2023-05-31,Biology,2026-04-16T13:18:14.900641
+STU-0440,Robert,Parker,louis80@example.net,2024-04-15,Biology,2026-04-16T13:18:14.900861
+STU-0441,Nicole,Austin,keithnguyen@example.com,2024-10-23,Computer Science,2026-04-16T13:18:14.901124
+STU-0442,Dustin,Wood,rhayes@example.net,2025-01-17,Chemistry,2026-04-16T13:18:14.901336
+STU-0443,Susan,Savage,kevinmorales@example.net,2023-04-20,Chemistry,2026-04-16T13:18:14.901591
+STU-0444,Nicholas,Chambers,ricecarrie@example.com,2024-12-28,Physics,2026-04-16T13:18:14.901874
+STU-0445,Jason,Lamb,brianbridges@example.com,2025-07-28,Business,2026-04-16T13:18:14.902142
+STU-0446,Thomas,Diaz,jenniferodom@example.net,2022-08-05,Chemistry,2026-04-16T13:18:14.902396
+STU-0447,Kerri,Matthews,lindajohnson@example.com,2024-06-18,Engineering,2026-04-16T13:18:14.902658
+STU-0448,Chelsea,Barrett,johnsonscott@example.org,2023-04-30,Business,2026-04-16T13:18:14.902934
+STU-0449,Justin,Wilson,charlesclark@example.net,2025-04-17,Physics,2026-04-16T13:18:14.903192
+STU-0450,Amanda,Farley,dperez@example.net,2025-01-09,Engineering,2026-04-16T13:18:14.903409
+STU-0451,Krista,Caldwell,millercharles@example.org,2024-11-10,Mathematics,2026-04-16T13:18:14.903674
+STU-0452,Kathryn,Howell,cindy10@example.org,2026-02-27,Engineering,2026-04-16T13:18:14.903893
+STU-0453,Joshua,Martinez,tarabest@example.net,2024-05-23,Computer Science,2026-04-16T13:18:14.904254
+STU-0454,Kevin,Taylor,joseph97@example.com,2024-05-12,Business,2026-04-16T13:18:14.904461
+STU-0455,Brian,Gomez,smithmichael@example.com,2025-04-14,Business,2026-04-16T13:18:14.904732
+STU-0456,Nancy,Ortiz,micheal85@example.com,2025-04-22,Mathematics,2026-04-16T13:18:14.904954
+STU-0457,Taylor,Barber,richardgray@example.com,2025-11-09,Mathematics,2026-04-16T13:18:14.905214
+STU-0458,Reginald,Smith,ramseykyle@example.org,2024-08-30,Engineering,2026-04-16T13:18:14.905479
+STU-0459,Philip,Harris,eric74@example.com,2024-04-22,Computer Science,2026-04-16T13:18:14.905677
+STU-0460,Bonnie,Miles,bennettchad@example.org,2022-05-25,Mathematics,2026-04-16T13:18:14.905958
+STU-0461,Kimberly,Gibbs,millerjeremy@example.com,2024-11-13,Chemistry,2026-04-16T13:18:14.906227
+STU-0462,Ryan,Scott,cmoran@example.net,2022-05-19,Chemistry,2026-04-16T13:18:14.906437
+STU-0463,Steven,Smith,hutchinsonstephen@example.com,2025-07-25,Chemistry,2026-04-16T13:18:14.906693
+STU-0464,Samantha,Perry,anaballard@example.com,2022-12-14,Biology,2026-04-16T13:18:14.907041
+STU-0465,Jonathan,Cameron,tyoung@example.com,2022-12-15,Mathematics,2026-04-16T13:18:14.907440
+STU-0466,Daniel,Hall,traci96@example.net,2024-02-17,Computer Science,2026-04-16T13:18:14.908065
+STU-0467,Patrick,Douglas,cynthiamalone@example.net,2023-03-30,Physics,2026-04-16T13:18:14.908587
+STU-0468,Melanie,Gonzalez,susanbutler@example.com,2023-04-10,Mathematics,2026-04-16T13:18:14.908911
+STU-0469,Rebecca,Carroll,whale@example.org,2025-11-10,Chemistry,2026-04-16T13:18:14.909140
+STU-0470,Natalie,Simpson,manderson@example.com,2022-11-25,Mathematics,2026-04-16T13:18:14.910432
+STU-0471,David,Nicholson,ayates@example.org,2022-06-05,Computer Science,2026-04-16T13:18:14.910711
+STU-0472,Jessica,Grant,janetbond@example.org,2025-09-20,Mathematics,2026-04-16T13:18:14.911002
+STU-0473,Krystal,Miller,kimberlymontgomery@example.com,2023-07-22,Physics,2026-04-16T13:18:14.911303
+STU-0474,Caleb,Butler,jenny14@example.org,2024-03-12,Chemistry,2026-04-16T13:18:14.911555
+STU-0475,Janet,Sandoval,tgreen@example.org,2024-04-08,Biology,2026-04-16T13:18:14.911786
+STU-0476,Brittany,Bender,megan48@example.com,2026-01-10,Chemistry,2026-04-16T13:18:14.911993
+STU-0477,Erin,Fernandez,caitlinsmith@example.net,2025-11-07,Computer Science,2026-04-16T13:18:14.912255
+STU-0478,Nicholas,Montgomery,kingjohn@example.net,2025-04-05,Physics,2026-04-16T13:18:14.912551
+STU-0479,Andrew,Reynolds,teresaarmstrong@example.com,2024-01-30,Business,2026-04-16T13:18:14.912826
+STU-0480,Kenneth,Hubbard,hmerritt@example.net,2023-09-12,Biology,2026-04-16T13:18:14.913044
+STU-0481,James,Jackson,coreyjones@example.net,2024-12-26,Biology,2026-04-16T13:18:14.913314
+STU-0482,Amanda,Winters,flemingsteven@example.net,2023-05-05,Physics,2026-04-16T13:18:14.913599
+STU-0483,Christopher,Gomez,laurenaguilar@example.com,2022-12-18,Computer Science,2026-04-16T13:18:14.913860
+STU-0484,Jasmine,Gray,ypalmer@example.com,2025-06-16,Chemistry,2026-04-16T13:18:14.914077
+STU-0485,Brian,Blanchard,laurenanderson@example.com,2022-08-07,Business,2026-04-16T13:18:14.914338
+STU-0486,Andrew,Bradshaw,yherrera@example.net,2025-09-08,Physics,2026-04-16T13:18:14.914577
+STU-0487,Tracy,Gonzalez,solomonrandall@example.org,2025-05-15,Business,2026-04-16T13:18:14.914837
+STU-0488,Ricardo,Smith,tanyaharmon@example.net,2023-11-26,Chemistry,2026-04-16T13:18:14.915093
+STU-0489,Bryan,Stone,bhernandez@example.com,2025-06-14,Engineering,2026-04-16T13:18:14.915317
+STU-0490,Sydney,Johnson,robertboone@example.net,2025-06-13,Business,2026-04-16T13:18:14.915602
+STU-0491,Jessica,Dawson,jacksonhector@example.net,2023-11-15,Chemistry,2026-04-16T13:18:14.915866
+STU-0492,Jessica,Harmon,carolinegomez@example.com,2022-06-08,Physics,2026-04-16T13:18:14.916121
+STU-0493,Kim,Garcia,xevans@example.org,2025-08-01,Chemistry,2026-04-16T13:18:14.916329
+STU-0494,Michael,Ferguson,geoffreymiller@example.com,2025-09-23,Business,2026-04-16T13:18:14.916607
+STU-0495,Jonathan,French,lisa10@example.net,2023-07-17,Mathematics,2026-04-16T13:18:14.917345
+STU-0496,Joseph,Miller,ssimpson@example.org,2026-04-02,Business,2026-04-16T13:18:14.917584
+STU-0497,Richard,Jones,ygarcia@example.com,2025-10-12,Physics,2026-04-16T13:18:14.917805
+STU-0498,Noah,White,sloanwilliam@example.net,2024-07-02,Computer Science,2026-04-16T13:18:14.918067
+STU-0499,Samuel,Brown,deannadennis@example.com,2024-04-18,Mathematics,2026-04-16T13:18:14.918329
+STU-0500,John,Castro,scottmurphy@example.net,2022-07-28,Biology,2026-04-16T13:18:14.918610
